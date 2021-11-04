@@ -1,12 +1,14 @@
 # NLW---Heat-ReactJS
 
+<h1>
+  <img src="src/assets/logo.svg"/>
+</h1>
+
+<img src="src/assets/Heatnlwsocketio.gif" alt="Gif sending message"/>
+
 <h3 align="center">
   App with ReactJS and SocketIO to show real-time chat, and login with Github Oauth
 </h3> 
-
-<h1>
-  <img src="src/assets/print-layout.png"/>
-</h1>
 
 ## :open_file_folder: About
 
@@ -85,13 +87,14 @@ $ yarn prisma migrate dev
 # execute with:
 $ yarn dev
  ```
- </br>
+</br>
 
- ## :fire: Credits
- The enterprise responsible to this event and to this application: 
- [Rocketseat](https://app.rocketseat.com.br/)
-
- </br>
+## :fire: Credits
+  The enterprise responsible to this event and to this application: [Rocketseat](https://app.rocketseat.com.br/)
+  </br>
+  Layout by [ThiagoLuchtenberg](https://www.instagram.com/tiagoluchtenberg/) 
+  
+  </br>
 
  ## :pencil2: Contact Me
 
